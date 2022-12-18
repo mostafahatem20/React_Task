@@ -1,0 +1,9 @@
+.site-layout-header {
+  display: flex;
+  align-items: center;
+}
+.header-text {
+  color: white;
+  font-size: 2vmin;
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.detailsDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.detailsLoading {
+  font-size: 4vmin;
+}
+
+.launchImg {
+  width: 10vmin;
+  height: 10vmin;
+}
+
+.defaultImg {
+  font-size: 10vmin;
+}
